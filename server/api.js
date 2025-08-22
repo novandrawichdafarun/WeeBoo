@@ -12,6 +12,7 @@ function pesan() {
 }
 
 coba();
+<<<<<<< HEAD
 Penjumlahan(10);
 pesan();
 
@@ -20,3 +21,10 @@ function mahasiswa() {
 }
 
 mahasiswa();
+=======
+
+function cetak() {
+  console.log("aku vandra");
+}
+cetak();
+>>>>>>> b3a811c (menambah fungsi cetak)
