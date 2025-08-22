@@ -14,4 +14,9 @@ function pesan() {
 coba();
 Penjumlahan(10);
 pesan();
-awwadaw
+
+function mahasiswa() {
+  console.log("Halo Nama saya mahasiswa");
+}
+
+mahasiswa();
