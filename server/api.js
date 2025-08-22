@@ -7,7 +7,10 @@ function Penjumlahan(i) {
   console.log(i);
 }
 
-awdwad
+function pesan() {
+  console.log("Hallo Vandra");
+}
 
 coba();
 Penjumlahan(10);
+pesan();
