@@ -7,5 +7,7 @@ function Penjumlahan(i) {
   console.log(i);
 }
 
+awdwad
+
 coba();
 Penjumlahan(10);
