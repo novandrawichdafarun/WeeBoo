@@ -3,3 +3,8 @@ function coba() {
 }
 
 coba();
+
+function cetak() {
+  console.log("aku vandra");
+}
+cetak();
