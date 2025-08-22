@@ -14,3 +14,4 @@ function pesan() {
 coba();
 Penjumlahan(10);
 pesan();
+awwadaw
